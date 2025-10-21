@@ -125,13 +125,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best
-    url: **https://www.cardiff.ac.uk/computer-science**
-    date: 'a'
-    awarder: A
-    icon: trophy
+  - title: Outstanding PhD Thesis
+    url: https://www.stanford.edu/
+    date: '2019-06-30'
+    awarder: Stanford University
+    icon: hero/academic-cap
     summary: |
-    A
+      Recognized for contributions to scaling laws in deep learning.
+  - title: Outstanding PhD Thesis
+    url: https://www.stanford.edu/
+    date: '2019-06-30'
+    awarder: Stanford University
+    icon: hero/academic-cap
+    summary: |
+      Recognized for contributions to scaling laws in deep learning.
       
 
 ---
