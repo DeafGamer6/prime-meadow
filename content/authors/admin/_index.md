@@ -52,8 +52,8 @@ interests:
 education:
   - area: PhD Computer Science (HCI Focus)
     institution: Cardiff University
-    date_start: 01/10/2022
-    date_end: EST-01/10/2026
+    date_start: 2022-10-01
+    date_end: 2026-10-01
     summary: |
       Thesis on audio accessibility in video games for those that are d/Deaf and Hard of hearing.
       "Deaf Play: A Narrative Thesis on the social play contexts of Deaf players"
@@ -63,8 +63,8 @@ education:
 
   - area: Bsc Computer Science
     institution: Cardiff University
-    date_start: 01/09/2019
-    date_end: 31/06/2022
+    date_start: 2019-09-01
+    date_end: 2022-06-31
     summary: |
 
       Final dissertation on subtitling and Sign langauge Interpreting systems for TV and Movies
