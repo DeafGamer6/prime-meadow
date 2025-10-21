@@ -64,7 +64,7 @@ education:
   - area: Bsc Computer Science
     institution: Cardiff University
     date_start: 2019-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-01
     summary: |
 
       Final dissertation on subtitling and Sign langauge Interpreting systems for TV and Movies
